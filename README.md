@@ -69,7 +69,7 @@ I believe in **consistent progress, good vibes, and making a positive impact thr
 
 <td width="45%" align="center">
 
-<img src="./assets/coding.png" width="90%" alt="Girl Coding"/>
+<img src="coding.png" width="90%" alt="Girl Coding"/>
 
 </td>
 </tr>
