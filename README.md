@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Pooja Gupta Banner"/>
+  <img src="banner.png" width="100%" alt="Pooja Gupta Banner"/>
 </p>
 
 <br>
@@ -124,7 +124,7 @@ I believe in **consistent progress, good vibes, and making a positive impact thr
 <br>
 
 <p align="center">
-  <img src="./assets/desk.png" width="80%" alt="Aesthetic Coding Desk"/>
+  <img src="desk.png" width="80%" alt="Aesthetic Coding Desk"/>
 </p>
 
 <br>
