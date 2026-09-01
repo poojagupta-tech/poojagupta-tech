@@ -1,74 +1,118 @@
+<!-- =========================
+     🌸 GITHUB PROFILE README
+========================= -->
+
+<!-- 🌸 BANNER -->
+
 <p align="center">
   <img src="banner.png" width="100%" alt="Pooja Gupta Banner"/>
 </p>
 
 <br>
 
+<!-- =========================
+     👋 INTRO
+========================= -->
+
 <h1 align="center">
-  Hi there! I'm Pooja Gupta 👋
+  🌸 Hi, I'm Pooja Gupta 👋
 </h1>
 
 <p align="center">
-  <strong>Computer Science Student • Developer • Lifelong Learner</strong>
+  <strong>Computer Science Student • Developer • Dreamer</strong>
 </p>
 
 <p align="center">
-  🌸 Code • Create • Inspire 🌸
+  💻 Building • 🎨 Creating • 🌱 Learning
+</p>
+
+<p align="center">
+  <i>Turning ideas into code, one project at a time ✨</i>
 </p>
 
 <br>
 
 <!-- =========================
-     🖤 ABOUT ME
+     🌷 ABOUT ME
 ========================= -->
 
-<!-- =========================
-     🖤 ABOUT ME
-========================= -->
-
-## 🌸 About Me
+<h2 align="center">
+  🌷 About Me
+</h2>
 
 <p align="center">
-  <img src="coding.png" width="70%" alt="Girl Coding"/>
+  <img src="coding.png" width="65%" alt="Pooja Coding"/>
 </p>
 
 <br>
+
+<p align="center">
+  <strong>Hey! I'm Pooja 👋</strong>
+</p>
+
+<p align="center">
+  I'm a <strong>Computer Science student</strong> and aspiring
+  <strong>software developer</strong> who loves building things,
+  solving problems, and bringing creative ideas to life through code.
+</p>
+
+<br>
+
+<!-- WHAT I ENJOY -->
 
 <h3 align="center">
-  ##👋 Hi there! I'm Pooja
+  💫 What I Enjoy
 </h3>
 
 <p align="center">
-  I'm a **Computer Science student and aspiring software developer** passionate about
-  building **real-world applications**, solving meaningful problems, and continuously
-  growing my skills through hands-on development.
+  💻 <strong>Full-Stack Development</strong>
+  &nbsp; • &nbsp;
+  🧠 <strong>Problem Solving</strong>
+</p>
+
+<p align="center">
+  🔐 <strong>Cybersecurity</strong>
+  &nbsp; • &nbsp;
+  🚀 <strong>Exploring Technologies</strong>
+</p>
+
+<p align="center">
+  🎨 <strong>Beautiful & User-Friendly Interfaces</strong>
 </p>
 
 <br>
-### 💫 What I Enjoy
 
-- 💻 Building <strong>full-stack web applications</strong>
-- 🧠 Solving <strong>programming problems</strong>
-- 🔐 Exploring <strong>cybersecurity</strong>
-- 🚀 Learning <strong>new technologies</strong>
-- 🎨 Creating <strong>beautiful & useful interfaces</strong>
+<!-- A LITTLE MORE ABOUT ME -->
+
+<h3 align="center">
+  🌷 A Little More About Me
+</h3>
+
+<p align="center">
+  📍 <strong>India</strong>
+  &nbsp; • &nbsp;
+  🎓 <strong>Computer Science Student</strong>
+</p>
+
+<p align="center">
+  💻 <strong>Passionate Developer</strong>
+  &nbsp; • &nbsp;
+  🌱 <strong>Continuous Learner</strong>
+</p>
+
+<p align="center">
+  ☕ <strong>Coffee Lover</strong>
+  &nbsp; • &nbsp;
+  🎧 <strong>Lo-fi & Coding</strong>
+</p>
 
 <br>
 
-### 🌷 A Little More About Me
-
-📍 **India**
-🎓 **Computer Science Student**
-💻 **Passionate Developer**
-🌱 **Learning Every Day**
-☕ **Coffee Lover**
-🎧 **Lo-fi Beats & Coding**
-
-<br>
-
-<p>
-  I believe in <strong>consistent progress, good vibes, and making a
-  positive impact through code.</strong> 💜
+<p align="center">
+  <i>
+    "Consistent progress, creative thinking, and a little bit of
+    caffeine can turn ideas into something amazing." 💜
+  </i>
 </p>
 
 <br>
@@ -80,15 +124,15 @@
 <br>
 
 <!-- =========================
-     🛠️ TECH STACK
+     💻 TECH STACK
 ========================= -->
 
-## 💻 Tech Stack
+<h2 align="center">
+  💻 Tech Stack
+</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,express,mongodb,git,github,linux,html,css" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,express,mongodb,git,github,linux,html,css" />
 </p>
 
 <br>
@@ -97,13 +141,18 @@
      📚 CURRENTLY LEARNING
 ========================= -->
 
-## 📚 Currently Learning
+<h2 align="center">
+  📚 Currently Learning
+</h2>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/FullStack-FFA500?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Frontend-8E44AD?style=for-the-badge&logo=react&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/DSA-9B59B6?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/COLLEGE-7D3C98?style=for-the-badge&logo=bookstack&logoColor=white"/>
 
 </p>
@@ -114,46 +163,97 @@
      🌸 FUN FACTS
 ========================= -->
 
+<h2 align="center">
+  🌸 Fun Facts
+</h2>
 
+<p align="center">
+  💗 I write code and make it pretty ✨
+</p>
+
+<p align="center">
+  🇰🇷 K-dramas & Korean culture enthusiast
+</p>
+
+<p align="center">
+  🖥️ Aesthetic desk setups are my weakness
+</p>
+
+<p align="center">
+  🌱 Consistency over perfection
+</p>
+
+<p align="center">
+  ☕ Coffee + coding = perfect combination
+</p>
+
+<p align="center">
+  🎧 Lo-fi music makes coding better
+</p>
 
 <br>
 
+<p align="center">
+  <img src="desk.png" width="75%" alt="Aesthetic Coding Desk"/>
+</p>
+
+<br>
+
+<!-- =========================
+     🐍 CONTRIBUTION SNAKE
+========================= -->
 
 
 <!-- =========================
      🚀 FEATURED PROJECTS
 ========================= -->
 
-## 🌷 Featured Projects
+<h2 align="center">
+  🌷 Featured Projects
+</h2>
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌸 StudyBuddy
+<h3 align="center">🌸 StudyBuddy</h3>
 
-A productivity application for students to manage tasks, notes and deadlines.
+<p align="center">
+  A productivity application for students to manage
+  tasks, notes and deadlines.
+</p>
 
-**Tech Stack**
+<p align="center">
+  <code>React</code>
+  <code>Node.js</code>
+  <code>MongoDB</code>
+</p>
 
-`React` `Node.js` `MongoDB`
-
-🔗 **[View Repository](#)**
+<p align="center">
+  🔗 <strong><a href="#">View Repository</a></strong>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 SecureChat
+<h3 align="center">🔐 SecureChat</h3>
 
-A real-time chat application focused on secure communication.
+<p align="center">
+  A real-time chat application focused on
+  secure communication.
+</p>
 
-**Tech Stack**
+<p align="center">
+  <code>Socket.io</code>
+  <code>Express</code>
+  <code>MongoDB</code>
+</p>
 
-`Socket.io` `Express` `MongoDB`
-
-🔗 **[View Repository](#)**
+<p align="center">
+  🔗 <strong><a href="#">View Repository</a></strong>
+</p>
 
 </td>
 
@@ -161,31 +261,45 @@ A real-time chat application focused on secure communication.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌤️ Weather App
+<h3 align="center">🌤️ Weather App</h3>
 
-A weather application providing real-time weather information with a beautiful interface.
+<p align="center">
+  A weather application providing real-time
+  weather information with a beautiful interface.
+</p>
 
-**Tech Stack**
+<p align="center">
+  <code>JavaScript</code>
+  <code>API</code>
+  <code>CSS</code>
+</p>
 
-`JavaScript` `API` `CSS`
-
-🔗 **[View Repository](#)**
+<p align="center">
+  🔗 <strong><a href="#">View Repository</a></strong>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 Expense Tracker
+<h3 align="center">💰 Expense Tracker</h3>
 
-A simple application to track daily expenses and manage personal budgets.
+<p align="center">
+  A simple application to track daily expenses
+  and manage personal budgets.
+</p>
 
-**Tech Stack**
+<p align="center">
+  <code>React</code>
+  <code>Chart.js</code>
+  <code>Firebase</code>
+</p>
 
-`React` `Chart.js` `Firebase`
-
-🔗 **[View Repository](#)**
+<p align="center">
+  🔗 <strong><a href="#">View Repository</a></strong>
+</p>
 
 </td>
 
@@ -193,3 +307,57 @@ A simple application to track daily expenses and manage personal budgets.
 </table>
 
 <br>
+
+<!-- =========================
+     💡 WHAT I LOVE BUILDING
+========================= -->
+
+<h2 align="center">
+  💡 What I Love Building
+</h2>
+
+<p align="center">
+
+💻 <strong>Full-Stack Web Applications</strong>
+
+&nbsp; • &nbsp;
+
+🎨 <strong>Modern & Beautiful UI</strong>
+
+&nbsp; • &nbsp;
+
+🔐 <strong>Cybersecurity Projects</strong>
+
+</p>
+
+<p align="center">
+
+🤖 <strong>AI & Automation</strong>
+
+&nbsp; • &nbsp;
+
+🧠 <strong>DSA & Problem Solving</strong>
+
+&nbsp; • &nbsp;
+
+🚀 <strong>Developer Tools</strong>
+
+</p>
+
+<br>
+
+<p align="center">
+  🌸━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌸
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting my profile! 💗</strong>
+</p>
+
+<p align="center">
+  <i>Let's build something beautiful together ✨</i>
+</p>
+
+<p align="center">
+  🌷 💻 ☕ 🎧 🌸
+</p>
