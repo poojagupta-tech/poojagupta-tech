@@ -99,7 +99,7 @@ I believe in **consistent progress, good vibes, and making a positive impact thr
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/FullStack-6C4AB6?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/FullStack-FFA500?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Frontend-8E44AD?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSA-9B59B6?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/COLLEGE-7D3C98?style=for-the-badge&logo=college&logoColor=white"/>
