@@ -44,12 +44,13 @@
 <br>
 
 <h3 align="center">
-  👋 Hi there! I'm Pooja
+  ### 👋 Hi there! I'm Pooja
 </h3>
 
 <p align="center">
-  I'm a <strong>Computer Science student</strong> who loves turning ideas into
-  <strong>real-world applications</strong> and learning something new every day.
+  I'm a **Computer Science student and aspiring software developer** passionate about
+  building **real-world applications**, solving meaningful problems, and continuously
+  growing my skills through hands-on development.
 </p>
 
 <br>
@@ -66,15 +67,10 @@
 ### 🌷 A Little More About Me
 
 📍 **India**
-
 🎓 **Computer Science Student**
-
 💻 **Passionate Developer**
-
 🌱 **Learning Every Day**
-
 ☕ **Coffee Lover**
-
 🎧 **Lo-fi Beats & Coding**
 
 <br>
