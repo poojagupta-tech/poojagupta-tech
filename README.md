@@ -228,21 +228,3 @@ A simple application to track daily expenses and manage personal budgets.
 </table>
 
 <br>
-
-<!-- =========================
-     💡 WHAT I DO
-========================= -->
-
-## 💡 What I Love Building
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  💻 Full-Stack Web Applications              │
-│  🎨 Modern & Beautiful UI                    │
-│  🔐 Cybersecurity Projects                   │
-│  🤖 AI & Automation                          │
-│  🧠 DSA & Problem Solving                    │
-│  🚀 Developer Tools                          │
-│                                              │
-└──────────────────────────────────────────────┘
