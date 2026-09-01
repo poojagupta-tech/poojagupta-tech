@@ -61,6 +61,8 @@
 
 <h3>💻 Development</h3>
 
+<hr>
+
 Full-Stack Web Apps<br>
 Frontend Development<br>
 Backend Development<br>
@@ -73,6 +75,8 @@ Database Integration
 
 <h3>🧠 Interests</h3>
 
+<hr>
+
 Data Structures & Algorithms<br>
 Problem Solving<br>
 Cybersecurity<br>
@@ -84,6 +88,8 @@ Modern Web Technologies
 <td width="33%" align="center">
 
 <h3>🌱 Currently Growing</h3>
+
+<hr>
 
 React & TypeScript<br>
 Node.js & Express<br>
