@@ -26,10 +26,6 @@
   💻 Building • 🎨 Creating • 🌱 Learning
 </p>
 
-<p align="center">
-  <i>Turning ideas into code, one project at a time ✨</i>
-</p>
-
 <br>
 
 <!-- =========================
@@ -172,23 +168,11 @@
 </p>
 
 <p align="center">
-  🇰🇷 K-dramas & Korean culture enthusiast
-</p>
-
-<p align="center">
   🖥️ Aesthetic desk setups are my weakness
 </p>
 
 <p align="center">
   🌱 Consistency over perfection
-</p>
-
-<p align="center">
-  ☕ Coffee + coding = perfect combination
-</p>
-
-<p align="center">
-  🎧 Lo-fi music makes coding better
 </p>
 
 <br>
