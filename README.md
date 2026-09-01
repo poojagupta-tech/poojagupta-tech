@@ -99,10 +99,10 @@ I believe in **consistent progress, good vibes, and making a positive impact thr
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/System%20Design-6C4AB6?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-8E44AD?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full-%20Stack-6C4AB6?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-8E44AD?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSA-9B59B6?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-7D3C98?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/COLLEGE-7D3C98?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 
 </p>
 
