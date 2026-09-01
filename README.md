@@ -114,20 +114,7 @@
      🌸 FUN FACTS
 ========================= -->
 
-## 🌸 Fun Facts
 
-- 💗 I write code and make it pretty ✨
-- 🇰🇷 I love K-dramas & Korean culture
-- 🖥️ Aesthetic desk setups > everything
-- 🌱 I believe in consistency
-- ☕ Coffee + coding = perfect combination
-- 🎧 Lo-fi music makes coding better
-
-<br>
-
-<p align="center">
-  <img src="desk.png" width="80%" alt="Aesthetic Coding Desk"/>
-</p>
 
 <br>
 
