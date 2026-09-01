@@ -42,9 +42,9 @@
   <img src="coding.png" width="45%" alt="Pooja Coding"/>
 </p>
 
-<p align="center">
+<h2 align="center">
   <strong>Hi, I'm Pooja 👋</strong>
-</p>
+</h2>
 
 <p align="center">
   <strong>Computer Science Student</strong> •
