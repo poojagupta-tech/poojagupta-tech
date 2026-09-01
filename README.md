@@ -19,7 +19,7 @@
 </h1>
 
 <p align="center">
-  <strong>Computer Science Student • Developer • Dreamer</strong>
+  <strong>CS's Student • Developer • Dreamer</strong>
 </p>
 
 <p align="center">
@@ -32,93 +32,87 @@
      🌷 ABOUT ME
 ========================= -->
 
-<h2 align="center">
-  🌷 About Me
-</h2>
+<!-- =========================
+     🌷 ABOUT ME
+========================= -->
+
+<h2 align="center">🌷 About Me</h2>
 
 <p align="center">
-  <img src="coding.png" width="65%" alt="Pooja Coding"/>
+  <img src="coding.png" width="45%" alt="Pooja Coding"/>
+</p>
+
+<p align="center">
+  <strong>Hi, I'm Pooja 👋</strong>
+</p>
+
+<p align="center">
+  <strong>Computer Science Student</strong> •
+  <strong>Full-Stack Developer</strong> •
+  <strong>Problem Solver</strong>
+</p>
+
+<p align="center">
+  I build web applications with a focus on clean interfaces,
+  reliable backend systems, and practical user experiences.
 </p>
 
 <br>
 
-<p align="center">
-  <strong>Hey! I'm Pooja 👋</strong>
-</p>
+<table align="center">
+<tr>
 
-<p align="center">
-  I'm a <strong>Computer Science student</strong> and aspiring
-  <strong>software developer</strong> who loves building things,
-  solving problems, and bringing creative ideas to life through code.
-</p>
+<td width="33%" align="center">
 
-<br>
+<h3>💻 Development</h3>
 
-<!-- WHAT I ENJOY -->
+Full-Stack Web Apps<br>
+Frontend Development<br>
+Backend Development<br>
+REST APIs<br>
+Database Integration
 
-<h3 align="center">
-  💫 What I Enjoy
-</h3>
+</td>
 
-<p align="center">
-  💻 <strong>Full-Stack Development</strong>
-  &nbsp; • &nbsp;
-  🧠 <strong>Problem Solving</strong>
-</p>
+<td width="33%" align="center">
 
-<p align="center">
-  🔐 <strong>Cybersecurity</strong>
-  &nbsp; • &nbsp;
-  🚀 <strong>Exploring Technologies</strong>
-</p>
+<h3>🧠 Interests</h3>
 
-<p align="center">
-  🎨 <strong>Beautiful & User-Friendly Interfaces</strong>
-</p>
+Data Structures & Algorithms<br>
+Problem Solving<br>
+Cybersecurity<br>
+Software Development<br>
+Modern Web Technologies
 
-<br>
+</td>
 
-<!-- A LITTLE MORE ABOUT ME -->
+<td width="33%" align="center">
 
-<h3 align="center">
-  🌷 A Little More About Me
-</h3>
+<h3>🌱 Currently Growing</h3>
 
-<p align="center">
-  📍 <strong>India</strong>
-  &nbsp; • &nbsp;
-  🎓 <strong>Computer Science Student</strong>
-</p>
+React & TypeScript<br>
+Node.js & Express<br>
+MongoDB<br>
+DSA with C++<br>
+Software Engineering
 
-<p align="center">
-  💻 <strong>Passionate Developer</strong>
-  &nbsp; • &nbsp;
-  🌱 <strong>Continuous Learner</strong>
-</p>
+</td>
 
-<p align="center">
-  ☕ <strong>Coffee Lover</strong>
-  &nbsp; • &nbsp;
-  🎧 <strong>Lo-fi & Coding</strong>
-</p>
+</tr>
+</table>
 
 <br>
 
 <p align="center">
-  <i>
-    "Consistent progress, creative thinking, and a little bit of
-    caffeine can turn ideas into something amazing." 💜
-  </i>
+  <strong>🎯 Goal:</strong> Become a strong software engineer by building,
+  learning, and solving real-world problems.
 </p>
-
-<br>
 
 <p align="center">
-  🌸 <strong>Code • Create • Learn • Inspire</strong> 🌸
+  🌸 <strong>Build • Learn • Improve</strong> 🌸
 </p>
 
 <br>
-
 <!-- =========================
      💻 TECH STACK
 ========================= -->
