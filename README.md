@@ -52,11 +52,6 @@
   <strong>Problem Solver</strong>
 </p>
 
-<p align="center">
-  I build web applications with a focus on clean interfaces,
-  reliable backend systems, and practical user experiences.
-</p>
-
 <br>
 
 <table align="center">
