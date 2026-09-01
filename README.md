@@ -166,11 +166,9 @@
 <p align="center">
   💗 I write code and make it pretty ✨
 </p>
-
 <p align="center">
   🖥️ Aesthetic desk setups are my weakness
 </p>
-
 <p align="center">
   🌱 Consistency over perfection
 </p>
@@ -182,12 +180,6 @@
 </p>
 
 <br>
-
-<!-- =========================
-     🐍 CONTRIBUTION SNAKE
-========================= -->
-
-
 <!-- =========================
      🚀 FEATURED PROJECTS
 ========================= -->
