@@ -53,7 +53,7 @@
 </p>
 
 <br>
-
+<div align="center">
 ### 💫 What I Enjoy
 
 - 💻 Building <strong>full-stack web applications</strong>
@@ -77,7 +77,7 @@
 ☕ **Coffee Lover**
 
 🎧 **Lo-fi Beats & Coding**
-
+</div>
 <br>
 
 <p>
