@@ -31,11 +31,21 @@
      🖤 ABOUT ME
 ========================= -->
 
+<!-- =========================
+     🖤 ABOUT ME
+========================= -->
+
 ## 🌸 About Me
 
 <p align="center">
-  <strong>Hi there! I'm Pooja 👋</strong>
+  <img src="coding.png" width="70%" alt="Girl Coding"/>
 </p>
+
+<br>
+
+<h3 align="center">
+  👋 Hi there! I'm Pooja
+</h3>
 
 <p align="center">
   I'm a <strong>Computer Science student</strong> who loves turning ideas into
@@ -43,10 +53,6 @@
 </p>
 
 <br>
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 ### 💫 What I Enjoy
 
@@ -78,16 +84,6 @@
   I believe in <strong>consistent progress, good vibes, and making a
   positive impact through code.</strong> 💜
 </p>
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="coding.png" width="85%" alt="Girl Coding"/>
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -148,10 +144,6 @@
 </p>
 
 <br>
-
-<!-- =========================
-     🐍 CONTRIBUTION SNAKE
-========================= -->
 
 
 
