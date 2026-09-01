@@ -33,25 +33,32 @@
 
 ## 🌸 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<p align="center">
+  <strong>Hi there! I'm Pooja 👋</strong>
+</p>
 
-### Hi there! I'm Pooja 👋
-
-I'm a **Computer Science student** who loves turning ideas into real-world applications.
-
-I enjoy:
-
-- 💻 Building full-stack web applications
-- 🧠 Solving programming problems
-- 🔐 Exploring cybersecurity
-- 🚀 Learning new technologies
-- 🎨 Creating beautiful and useful interfaces
-
-I believe in **consistent progress, good vibes, and making a positive impact through code.** 💜
+<p align="center">
+  I'm a <strong>Computer Science student</strong> who loves turning ideas into
+  <strong>real-world applications</strong> and learning something new every day.
+</p>
 
 <br>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 💫 What I Enjoy
+
+- 💻 Building <strong>full-stack web applications</strong>
+- 🧠 Solving <strong>programming problems</strong>
+- 🔐 Exploring <strong>cybersecurity</strong>
+- 🚀 Learning <strong>new technologies</strong>
+- 🎨 Creating <strong>beautiful & useful interfaces</strong>
+
+<br>
+
+### 🌷 A Little More About Me
 
 📍 **India**
 
@@ -65,15 +72,28 @@ I believe in **consistent progress, good vibes, and making a positive impact thr
 
 🎧 **Lo-fi Beats & Coding**
 
+<br>
+
+<p>
+  I believe in <strong>consistent progress, good vibes, and making a
+  positive impact through code.</strong> 💜
+</p>
+
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center" valign="middle">
 
-<img src="coding.png" width="90%" alt="Girl Coding"/>
+<img src="coding.png" width="85%" alt="Girl Coding"/>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+  🌸 <strong>Code • Create • Learn • Inspire</strong> 🌸
+</p>
 
 <br>
 
