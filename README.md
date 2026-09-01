@@ -130,55 +130,10 @@ I believe in **consistent progress, good vibes, and making a positive impact thr
 <br>
 
 <!-- =========================
-     📊 GITHUB STATS
-========================= -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=poojagupta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojagupta&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
-<br>
-
-<!-- =========================
-     🔥 GITHUB STREAK
-========================= -->
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=poojagupta&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
-<br>
-
-<!-- =========================
      🐍 CONTRIBUTION SNAKE
 ========================= -->
 
-## 🐍 My Contribution Journey
 
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/poojagupta/poojagupta/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</p>
-
-<br>
 
 <!-- =========================
      🚀 FEATURED PROJECTS
