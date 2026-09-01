@@ -1,17 +1,8 @@
-<!-- =========================
-     🌸 GITHUB PROFILE README
-========================= -->
-
-<!-- Banner -->
 <p align="center">
   <img src="banner.png" width="100%" alt="Pooja Gupta Banner"/>
 </p>
 
 <br>
-
-<!-- =========================
-     👋 INTRO
-========================= -->
 
 <h1 align="center">
   Hi there! I'm Pooja Gupta 👋
@@ -44,7 +35,7 @@
 <br>
 
 <h3 align="center">
-  ### 👋 Hi there! I'm Pooja
+  ##👋 Hi there! I'm Pooja
 </h3>
 
 <p align="center">
